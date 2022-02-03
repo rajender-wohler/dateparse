@@ -1,4 +1,4 @@
-module github.com/rajender-wohler/dateparse
+module github.com/araddon/dateparse
 
 go 1.12
 
