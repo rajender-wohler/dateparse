@@ -38,7 +38,7 @@ cli tool for testing dateformats
 Extended example
 -------------------
 
-https://github.com/araddon/dateparse/blob/master/example/main.go
+https://github.com/rajender-wohler/dateparse/blob/master/example/main.go
 
 ```go
 package main
