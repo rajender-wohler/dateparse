@@ -32,13 +32,13 @@ layout, err := dateparse.ParseFormat("May 8, 2009 5:57:51 PM")
 cli tool for testing dateformats
 ----------------------------------
 
-[Date Parse CLI](https://github.com/araddon/dateparse/blob/master/dateparse)
+[Date Parse CLI](https://github.com/rajender-wohler/dateparse/blob/master/dateparse)
 
 
 Extended example
 -------------------
 
-https://github.com/araddon/dateparse/blob/master/example/main.go
+https://github.com/rajender-wohler/dateparse/blob/master/example/main.go
 
 ```go
 package main
@@ -49,7 +49,7 @@ import (
 	"time"
 
 	"github.com/scylladb/termtables"
-	"github.com/araddon/dateparse"
+	"github.com/rajender-wohler/dateparse"
 )
 
 var examples = []string{
